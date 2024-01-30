@@ -1,0 +1,158 @@
+*{
+    font-family: inherit;
+    /* color: aliceblue; */
+    /* font-size: 1rem; */
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+
+
+}
+
+
+
+
+.hoba{
+    color: aliceblue;
+}
+#navcolo{
+    background-color: rgb(25, 25, 31);
+        color: aliceblue;
+
+}
+#imglogo{
+    width: 6vw;
+}
+.nv1{
+    font-size: 11px;
+    margin-top: 5px;
+    position: relative;
+}
+.buto1{
+    background-color: rgb(234, 233, 233);
+    border-radius: 4px 0px 0px 4px;
+    color: rgb(39, 39, 39);
+}
+
+
+
+#bo:hover{
+    background-color: rgb(197, 192, 192);
+    color: black;
+
+
+}
+option{
+    color: black;
+}
+option:hover{
+    color: aliceblue;
+    background-color: rgb(108, 105, 102);
+}
+
+.bouto2{
+    border-radius: 0px 4px 4px 0px;
+
+}
+#ancorsearch{
+    font-size: 1.2em;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  
+.img-ico{
+    width: 1.2vw;
+}
+
+a{
+    color: white;
+}
+
+.navigator{
+    background-color:#232f3e;
+    color: white;
+
+}
+li{
+    list-style: none;
+}
+ul{
+    padding: 0;
+}
+#img-nav3{
+   width: 23vw;
+}
+
+li:hover{
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+}
+.hovee:hover{
+    border-width: 1px;
+
+    border-color: white;
+    border-style: solid;
+}
+/* ///////////////////////// */
+.carousel-item {
+    height: 88vh;
+    /* min-height: 200px; */
+    /* background: no-repeat center center ;  */
+    /* -webkit-background-size: cover; */
+    /* -moz-background-size: cover; */
+    /* -o-background-size: cover; */
+    /* background-size: cover; */
+  }
+
+  .cardss{
+background:none;
+margin-top: -60vh;
+  }
+
+.card{
+    border-radius: 0px;
+    height: 100%;
+}
+.fonte-card{
+    font-size: 21px;
+
+}
+.card-a{
+    color: #232f3e;
+}
+.card-b{
+    color: #232f3e;
+    font-size: 12px;
+
+}
+.card-a:hover{
+    color: #c7511f;
+}
+.img-card{
+    width: 100%;
+    max-width: 30%;
+    min-width: 100%;
+}
+.img-card2{
+    width: 100%;
+    max-width: 100%;
+
+}
+
+/* /// */
+.img-slide{
+    max-width: 100%;
+    min-width: 100%;
+}
+
+
+.footer-fot{
+ font-size: 12px;
+ color: #999999;
+}
+.foter-colo{
+    background-color: #131A22;
+}
